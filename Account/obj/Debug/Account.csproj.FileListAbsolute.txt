@@ -1,0 +1,7 @@
+C:\Users\Test\Desktop\Git_Files\c#\Account\Account\bin\Debug\Account.exe.config
+C:\Users\Test\Desktop\Git_Files\c#\Account\Account\bin\Debug\Account.exe
+C:\Users\Test\Desktop\Git_Files\c#\Account\Account\bin\Debug\Account.pdb
+C:\Users\Test\Desktop\Git_Files\c#\Account\Account\obj\Debug\Account.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\Git_Files\c#\Account\Account\obj\Debug\Account.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\Git_Files\c#\Account\Account\obj\Debug\Account.exe
+C:\Users\Test\Desktop\Git_Files\c#\Account\Account\obj\Debug\Account.pdb
