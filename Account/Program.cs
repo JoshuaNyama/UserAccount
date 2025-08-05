@@ -14,7 +14,7 @@ namespace ConsoleApp4
             Console.WriteLine("(1) Create account" +
                 "\n(2) Sign in");
 
-            Console.Write("Enter yer option: ");
+            Console.Write("Enter your option: ");
             int option = Convert.ToInt32(Console.ReadLine());
 
             switch (option)
@@ -36,13 +36,13 @@ namespace ConsoleApp4
         {
             while (true)
             {
-                Console.Write("Enter yer name: ");
+                Console.Write("Enter your name: ");
                 string name = Console.ReadLine();
 
                 Console.Write("Create a password: ");
                 string password = Console.ReadLine();
 
-                Console.Write("Confirm yer password: ");
+                Console.Write("Confirm your password: ");
                 string confirmPassword = Console.ReadLine();
 
                 if (password != confirmPassword)
@@ -56,14 +56,14 @@ namespace ConsoleApp4
 
                 if (age < 18)
                 {
-                    Console.WriteLine("Yer aren't of age yet.");
+                    Console.WriteLine("you aren't of age yet.");
                     break;
                 }
 
                 if (!accounts.ContainsKey(name))
                 {
                     accounts.Add(name, password);
-                    Console.WriteLine("Account created successfully! Yer can now proceed.\n");
+                    Console.WriteLine("Account created successfully! you can now proceed.\n");
                 }
                 else
                 {
